@@ -11,4 +11,9 @@ SO THAT I can create a strong password that provides greater security
 ```
 URL to deploy demo site: https://bit.ly/3GEeZth
 
+Features:
+The password generator contains multiple prompts asking which characters you would like to be included.
+You can set you password length from 8-128 characters.
+If you do not select any characters to be deployed in your password, you are met with an error screen.
+
 ![image](https://user-images.githubusercontent.com/100245563/171363826-ba4c0097-d33c-47bc-ac9c-4be2bce481da.png)
